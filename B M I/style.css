@@ -1,0 +1,46 @@
+body{
+	      background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/104215/launch-day-boom_copy.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: 100%;
+}
+.container{
+background: cornsilk;
+    margin-top: 59px;
+    width: 375px;
+    margin-left: 460px;
+    height: 100%;
+    margin-right: 545px;
+    text-align: center;
+    height: 525px;
+    padding-top: 10px;
+}
+}
+#cm{
+	font-size: 29px;
+}
+#kg{
+font-size: 15px;
+margin-bottom: 15px;
+
+}
+#submit{
+
+	text-align: center;
+    font-size: 29px;
+    background: darkcyan;
+
+}
+#u{
+	font-size: large;
+}
+
+#result{
+	    background: white;
+    width: 300px;
+    height: 50px;
+    margin-left: 63px;
+    margin-top: 12px;
+    font-size: 35px;
+}
